@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ryan Garcia 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em **Suporte Técnico**, **Help Desk**, **Infraestrutura** e **Desenvolvimento Júnior**. Entusiasta do ecossistema Linux, diagnóstico de hardware e soluções web.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em **Suporte Técnico**, **Help Desk**, **Infraestrutura** e **Desenvolvimento **. Entusiasta do ecossistema Linux, diagnóstico de hardware e soluções web.
 
 ---
 
